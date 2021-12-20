@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/146696417-5f17c725-d800-4140-9693-bb980e592ff3.png" align="left" height="150px" width="150px">
+    <h1># Criando seu próprio jogo da velha com HTML e Javascript</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML para estruturar nosso site. CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas intera;óes, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. Vamos abordar conceitos b[asicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e um pouco de lógica.
     </p>
 </p>      
 
